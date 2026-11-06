@@ -1,5 +1,13 @@
 {
   "name": "mr-inspector",
-  "owner": { "name": "gverstegen" },
-  "plugins": [{ "name": "mr-inspector", "source": "./" }]
+  "owner": {
+    "name": "gverstegen"
+  },
+  "description": "Claude Code mods by gverstegen: mr-inspector, a band that lists the MRs and PRs Claude created this session.",
+  "plugins": [
+    {
+      "name": "mr-inspector",
+      "source": "./"
+    }
+  ]
 }
