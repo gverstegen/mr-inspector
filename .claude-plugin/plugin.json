@@ -1,0 +1,7 @@
+{
+  "name": "mr-inspector",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "A band above the prompt that lists the MRs and PRs Claude created this session, each with a digit hotkey that opens it in the browser.",
+  "types": "./types/index.d.ts"
+}
